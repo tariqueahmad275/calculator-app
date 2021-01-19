@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_tcet">TCET APP</string>
+    <string name="login_act_text">LoginActivity</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
